@@ -23,7 +23,7 @@
 
 ```javascript
 
-const Dhyey = {
+const Udit = {
 
   nouns: "Udit",
 
