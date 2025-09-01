@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<p><em>I write for computers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Intern at <a href="www.veefin.com">Veefin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<p><em>I write for computers</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>DevSecOps Engineer at <a href="www.veefin.com">Veefin</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 </em></p>
 
@@ -10,7 +10,7 @@
 
 [![Twitter: UditP](https://img.shields.io/twitter/follow/UditP?style=social)](https://twitter.com/UditParekh12)
 
-[![Linkedin: UditP](https://img.shields.io/badge/-Udit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/UditP)](https://www.linkedin.com/in/udit-parekh-678253203/)
+[![Linkedin: UditP](https://img.shields.io/badge/-Udit-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/UditP)](https://www.linkedin.com/in/uditparekh1211/)
 
 [![GitHub udit-1211](https://img.shields.io/github/followers/udit-1211?label=follow&style=social)](https://github.com/udit-1211)
 
@@ -29,23 +29,23 @@ const Udit = {
 
   pronouns: "he/him",
 
-  AWS Services: [EC2, RDS, S3, Lambda, VPC, CloudFormation, CloudWatch],
+  AWS Services: [EC2, S3, RDS, EFS, ElatiCache, Route53, Guard Duty, Backup, VPC, CloudFront, IAM, Lambda, WAF, ECR, ECS, CloudTrail, EventBridge],
 
-  DevOps tools: [Jenkins, Docker, Kubernetes, Terraform, Ansible],
+  Azure Services: [Virtual Machines, SQL Databases, Container Registries, Sentinel, Log Analytics, Monitor, Cache for Redis, Entra ID, Front Door],
 
-  CI/CD: [AWS CodePipeline, AWS CodeDeploy, GitLab CI/CD],
+  DevOps tools: [Jenkins, Docker, Terraform, Ansible],
 
-  Monitoring and Logging: [AWS CloudWatch, CloudTrail, ELK Stack],
+  CI/CD: [AWS CodePipeline, AWS CodeDeploy, GitLab CI/CD, Jenkins, Bitbucket Pipelines],
+
+  Monitoring and Logging: [AWS CloudWatch, CloudTrail, Grafana, Prometheus],
 
   Infrastructure as Code: [AWS CloudFormation, Terraform],
 
-  Version Control: [Git, GitHub, GitLab],
+  Version Control: [Git, GitHub, GitLab, BitBucket],
 
-  Security: [AWS IAM, Security Groups, Key Management Service(KMS)],
+  Operationg System: [Alma, CentOS, Ubuntu, Windows, RHEL],
 
-  Operationg System: [Linux, Windows],
-
-  intrests: [Cloud, Servers, Prompting, Team Building]
+  intrests: [Cloud, Servers, Prompting, Security]
 
 }
 
@@ -79,7 +79,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 </a>
 
-<a href="https://www.linkedin.com/in/udit-parekh-678253203/">
+<a href="https://www.linkedin.com/in/uditparekh1211/">
 
   <img align="left" alt="Linkedin" width="130" hight="100" src="https://github.com/dk3775/dk3775/blob/main/assets/icons/linkedin.png" />
 
